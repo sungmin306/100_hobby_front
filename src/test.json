@@ -1,0 +1,202 @@
+{
+  "test": [
+    {
+      "id": 1,
+      "MBTI": "",
+      "category": "",
+      "people_number": "",
+      "inout": "",
+      "weather": ""
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 2
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 3
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 4
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 5
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 6
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 7
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 8
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 9
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 10
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "예술",
+      "people_number": "사람 수: 30",
+      "inout": 80,
+      "weather": "날씨: 25",
+      "id": 11
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "스포츠",
+      "people_number": "사람 수: 25",
+      "inout": 80,
+      "weather": "날씨: 95",
+      "id": 12
+    },
+    {
+      "MBTI": "ENFP",
+      "category": "스포츠",
+      "people_number": "사람 수: 25",
+      "inout": 80,
+      "weather": "날씨: 95",
+      "id": 13
+    },
+    {
+      "MBTI": "ISTJ",
+      "category": "예술",
+      "people_number": "사람 수: 25",
+      "inout": 90,
+      "weather": "날씨: 20",
+      "id": 14
+    },
+    {
+      "MBTI": "INFJ",
+      "category": "랜덤추천",
+      "people_number": 40,
+      "inout": 65,
+      "weather": 20,
+      "id": 15
+    },
+    {
+      "MBTI": "INFJ",
+      "category": "랜덤추천",
+      "people_number": 40,
+      "inout": 65,
+      "weather": 20,
+      "id": 16
+    },
+    {
+      "MBTI": "INFJ",
+      "category": "랜덤추천",
+      "people_number": 40,
+      "inout": 65,
+      "weather": 20,
+      "id": 17
+    },
+    {
+      "MBTI": "INFJ",
+      "category": "예술",
+      "people_number": 50,
+      "inout": 50,
+      "weather": 50,
+      "id": 18
+    },
+    {
+      "MBTI": "INFJ",
+      "category": "예술",
+      "people_number": 50,
+      "inout": 50,
+      "weather": 50,
+      "id": 19
+    },
+    {
+      "MBTI": "ISFJ",
+      "category": "스포츠",
+      "people_number": 50,
+      "inout": 50,
+      "weather": 50,
+      "id": 20
+    },
+    {
+      "MBTI": "ISFJ",
+      "category": "스포츠",
+      "people_number": 50,
+      "inout": 50,
+      "weather": 50,
+      "id": 21
+    },
+    {
+      "MBTI": "ISFJ",
+      "category": "스포츠",
+      "people_number": 50,
+      "inout": 50,
+      "weather": 50,
+      "id": 22
+    },
+    {
+      "MBTI": "ISFJ",
+      "category": "스포츠",
+      "people_number": 50,
+      "inout": 50,
+      "weather": 50,
+      "id": 23
+    },
+    {
+      "MBTI": "ISFJ",
+      "category": "스포츠",
+      "people_number": 50,
+      "inout": 50,
+      "weather": 50,
+      "id": 24
+    }
+  ],
+  "test2": [
+    {
+      "id": 1,
+      "hobby": "크로스핏"
+    }
+  ]
+}
